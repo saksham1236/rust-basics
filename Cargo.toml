@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "./higher_lower",
+    "./arguements",
+    "./modules", "file_system", "check_the_roster", "structs", "associated_functions", "tuple_struct", "represent_shapes", "generics", "box_data_type", "sum_boxes", "traits", "trait_bounds", "implementing_traits", "lifetimes", "enums", "option_T_enum", "if_let", "represent_location", "unrecoverable_error", "recoverable_errors", "propagating_errors", "handle_error", "vector", "hashmap", "count_words",
+]
